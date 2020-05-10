@@ -1,0 +1,2 @@
+This file will detail all specific game and UI terms used in EXODE.
+This initial commit allows all translators to have a dictionary file available.
