@@ -6,62 +6,121 @@
 // VER 0.2a 
 
 [{"intro1_welcome1":"Welcome to EXODE Evacuation!"},
+
 {"intro1_welcome2":"You just have received the ability to give orders to your crew, and we know you don't want to mess that up."},
+
 {"intro1_welcome3":"Evacuation is where you are to encounter the last moments of civilization. When desperate, mankind is known to panic."},
+
 {"intro1_welcome4":"But we are here to help you!"},
+
 {"intro1_welcome5":"We are just a tutorial script, yet we are able to do that. Isn't it amazing? :)"},
+
 {"intro1_welcome6":"I know, I know, you are feeling better already. Okay, take a deep breath."},
+
 {"intro1_welcome7":"First thing first: the game is not on pause. I repeat, "},
+
 {"intro1_welcome8":"the game is not on pause"},
+
 {"intro1_welcome9":"Sorry, that will be added later. That's why we asked to take a deep breath. We have 84 % more success chances if you do."},
+
 {"intro1_welcome10":"If you are not panicking, we'll be faster now. Let's get to quick instructions!"},
+
 {"intro1_welcome11":"We are here in your cockpit view. And this is [nameOfCrew], one of your crew. You have several crew members and some of them are officers."},
+
 {"intro1_welcome12":"They are not equal in their skills. Maybe you don't know who can do what, and that is okay."},
+
 {"intro1_welcome13":"At some point, I will still ask you to find someone who can fix your Hyperdrive."},
+
 {"intro1_welcome14":"If don't, your ship, can, technically, explode."},
+
 {"intro1_welcome15":"And people don't appreciate to do that. Exploding."},
+
 {"intro1_welcome16":"You will give orders to your crew. Because you are the boss on your ship."},
+
 {"intro1_welcome17":"However some of your crew members are [b]On Leave[/b]. If their comms are online, you can tell them to come back. If not, they may be enjoying some good time. This is a problem."},
+
 {"intro1_welcome18":"If you have people with Comms offline, the best action is to send another crew to investigate and find them."},
+
 {"intro1_welcome19":"You can also, optionally, leave them out there to die; or maybe they'll come back if they hear the alarm."},
+
 {"intro1_welcome20":"In Evacuation you must do three things:"},
+
 {"intro1_welcome21":"1. Load fuel"},
+
 {"intro1_welcome22":"2. Upgrade your Hyperdrive"},
+
 {"intro1_welcome23":"3. Optionally: load Cargo and Passengers."},
+
 {"intro1_welcome24":"Simple, right?"},
+
 {"intro1_welcome25":"And to do that, you just have to give some orders."},
+
 {"intro1_welcome26":"With the situation you may also have to [i]Guard the Station Halls[/i] (to prevent an invasion of your ship, as ships are in high demand with all this)."},
+
 {"intro1_welcome27":"Or to send someone back to the cockpit and [i]Manage your Shields[/i] if things get tough outside."},
+
 {"intro1_welcome28":"Oh, our training in an Evacuation tells us some people may panic and fight for resources."},
+
 {"intro1_welcome29":"Even your crew loading cargo can encounter enemy crews shooting at them out there."},
+
 {"intro1_welcome30":"Oh, the humanity."},
+
 {"intro1_welcome31":"Let's begin before you die out there."},
+
 {"intro1_welcome32":"We will activate orders on one of your crew."},
+
 {"intro2_orders1":"Your crew is now awaiting your orders."},
+
 {"intro2_orders2":"This order, the first one, gives the Evacuation checklist; Fuel, Cargo, Hyperdrive, Passengers."},
+
 {"intro2_orders3":"We'll click on this button now!"},
+
 {"intro2_orders4":"You now have access to a list of orders essential to launching your ship. Let's review them quickly."},
+
 {"intro2_orders5":"This order sends your crew to the maintenance bay where he will load new crates to your ship."},
+
 {"intro2_orders6":"Loading cargo is simple but needs basic dexterity, speed and awareness."},
+
 {"intro2_orders7":"You don't always know these stats, but you know about one qualification, the Manual Qualification test (all crew are tested on this), that fits most of it."},
+
 {"intro2_orders8":"This order is used to load and recharge fuel cells."},
+
 {"intro2_orders9":"Here Manual, speed but also Cybernetics skills are used as there are some techniques to find replacement cells, to recharge them faster, or to find better ones."},
+
 {"intro2_orders10":"This order is extremely important. It aims at reprogramming your Hyperdrive for a galactic jump."},
+
 {"intro2_orders11":"Your crew cannot even be certain of the results. Mechanics and Cybernetics skills are essential to this task."},
+
 {"intro2_orders12":"To welcome new passengers you must protect and escort them aboard your ship."},
+
 {"intro2_orders13":"You click on this order and then target a citizen."},
+
 {"intro2_orders14":"You must be in the Station Hall for that, and this certainly won't please the other people out there."},
+
 {"intro2_orders15":"To calm agitated citizens your crew can use his Conversation skills. You target a citizen with this action."},
+
 {"intro2_orders16":"Usually some Empathy is good to have here for better results; Empathy is part of your crew Grade in this skill."},
+
 {"intro2_orders17":"Also, this action can make you learn a lot more about about the target citizen."},
+
 {"intro2_orders18":"Now let's get back to the basic orders."},
+
 {"intro3_basicOrders1":"The basic orders you have are related to the room you are into."},
+
 {"intro3_basicOrders2":"This order sends this crew to the Station Halls, where he will set up some cover and guard the spaceship against intruders."},
+
 {"intro3_basicOrders3":"This order is used to reunite with your crew."},
+
 {"intro3_basicOrders4":"This means coming back if this crew is on leave, or investigate to find another crew you will target."},
+
 {"intro3_basicOrders5":"This order is used to actually move from one room to another."},
+
 {"intro3_basicOrders6":"Cockpit also gives you access to special orders, such as private crew files and starship shields."},
+
 {"intro3_basicOrders7":"Other rooms are specific too; passengers are only found in the Station Halls, for instance!"},
+
 {"intro3_basicOrders8":"... I think you are all set now!"},
+
 {"intro3_basicOrders9":"Your survival chances are now less than 10%, so I am going to upload myself somewhere safer."},
+
 {"intro3_basicOrders10":"Good luck!"}]
