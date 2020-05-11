@@ -16,78 +16,52 @@
 // This file will be made again in a whole JSON format.
 
 // ==========================================
-/*
-{["TACTICAL":
 
-== academical:
-Hardpoints => + "Hardpoints Expert" / - ""
-Manual Dexterity => 
-Piloting => 
-Signals and Radar Test (SRT) =>  
-Warfare => 
-
-== non-academical:
-
-Awareness => 
-Courage => 
-Discipline => 
-Heroism => 
-Speed => 
-Tactical Cover => 
-Tactical Orders => 
-Tactical Shooting => 
-Violence => 
-
-
-
-ENVIRONMENTAL
-
-== academical:
-Planetary =>
-Spaceships =>
-Station => 
-
-
-TECHNICAL
-
-== academical:
-Administration => 
-Medical => 
-Nature => 
-Science => 
-Programming => 
-Mechanics => 
-Cybernetics => 
-
-
-SOCIAL
-
-== academical:
-Comms Evaluation (CE) => 
-
-== non-academical:
-
-Charisma => 
-Conversation => 
-Diplomacy => 
-Empathy => 
-Intimidation => 
-Leadership => 
-Popularity => 
-
-
-BEHAVIOR
-
-Agitation (political) => 
-Drugs => 
-Familial Ties =>
-Romantic Ties => 
-Social Ties => 
-Federal Values => 
-Loyalty => 
-Morality => 
-Open Mindness => 
-Secret Agenda => 
-Social Closure (behavior when alone) => 
-Social Exposure (behavior when in a large group) => 
-*/
+{"TACTICAL":
+ {"Hardpoints":{"Good trait":"Expert Gunner","Bad trait":"Bad Gunner"},
+  "Manual Dexterity":{"Good trait":"Dextrous","Bad trait":""},
+  "Piloting":{"Good trait":"Expert Pilot","Bad trait":""},
+  "Signals and Radar Test (SRT)":{"Good trait":"Signals Expert","Bad trait":""},
+  "Warfare":{"Good trait":"Warfare Expert","Bad trait":""},
+  "Awareness":{"Good trait":"","Bad trait":""},
+  "Courage":{"Good trait":"","Bad trait":""},
+  "Discipline":{"Good trait":"","Bad trait":""},
+  "Heroism":{"Good trait":"","Bad trait":""},
+  "Speed":{"Good trait":"","Bad trait":""},
+  "Tactical Cover":{"Good trait":"","Bad trait":""},
+  "Tactical Orders":{"Good trait":"","Bad trait":""},
+  "Tactical Shooting":{"Good trait":"","Bad trait":""},
+  "Violence":{"Good trait":"","Bad trait":""}},
+ "ENVIRONMENTAL":
+ {"Planetary":{"Good trait":"Planetary Expert","Bad trait":""},
+  "Spaceships":{"Good trait":"Spaceships Expert","Bad trait":""},
+  "Station":{"Good trait":"Station Expert","Bad trait":""}},
+ "TECHNICAL":
+ {"Administration":{"Good trait":"Administration Expert","Bad trait":""},
+  "Medical":{"Good trait":"Medical Expert","Bad trait":""},
+  "Nature":{"Good trait":"Nature Expert","Bad trait":""},
+  "Science":{"Good trait":"Science Expert","Bad trait":""},
+  "Programming":{"Good trait":"Programming Expert","Bad trait":""},
+  "Mechanics":{"Good trait":"Mechanics Expert","Bad trait":""},
+  "Cybernetics":{"Good trait":"Cybernetics Expert","Bad trait":""}},
+ "SOCIAL":
+ {"Comms Evaluation (CE)":{"Good trait":"","Bad trait":""},
+  "Charisma":{"Good trait":"","Bad trait":""},
+  "Conversation":{"Good trait":"","Bad trait":""},
+  "Diplomacy":{"Good trait":"","Bad trait":""},
+  "Empathy":{"Good trait":"","Bad trait":""},
+  "Intimidation":{"Good trait":"","Bad trait":""},
+  "Leadership":{"Good trait":"","Bad trait":""},
+  "Popularity":{"Good trait":"","Bad trait":""}},
+ "BEHAVIOR":
+ {"Agitation":{"Good trait":"","Bad trait":""},
+  "Drugs Addiction":{"Good trait":"","Bad trait":""},
+  "Familial Ties":{"Good trait":"","Bad trait":""},
+  "Romantic Ties":{"Good trait":"","Bad trait":""},
+  "Social Ties":{"Good trait":"","Bad trait":""},
+  "Loyalty":{"Good trait":"","Bad trait":""},
+  "Morality":{"Good trait":"","Bad trait":""},
+  "Open Mindness":{"Good trait":"","Bad trait":""},
+  "Secret Agenda":{"Good trait":"","Bad trait":""},
+  "Social Closure (behavior when alone)":{"Good trait":"","Bad trait":""},
+  "Social Exposure (behavior when in a large group)":{"Good trait":"","Bad trait":""}}}
