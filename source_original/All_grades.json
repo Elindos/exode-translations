@@ -1,23 +1,23 @@
 
-In EXODE skills are called "Grades".
+// In EXODE skills are called "Grades".
 
-Academical Grades have results known by the commander.
-This is the case of many things tested for anyone on a spaceship, such as piloting, ability to use hardpoint-attached weapons, etc.
+// Academical Grades have results known by the commander.
+// This is the case of many things tested for anyone on a spaceship, such as piloting, ability to use hardpoint-attached weapons, etc.
 
 
-Non-academical grades, which are personal scores of the crew, are often not "exposed".
-They may become discovered if they are far above, or far below the average.
+// Non-academical grades, which are personal scores of the crew, are often not "exposed".
+// They may become discovered if they are far above, or far below the average.
 
-In this case, we make appear "some traits".
-This can  inform the commander of "bad traits" (if they are far below average) or "good traits" (if they are far above average)
+// In this case, we make appear "some traits".
+// This can  inform the commander of "bad traits" (if they are far below average) or "good traits" (if they are far above average)
 
-In the list below, some traits are already displayed by the program.
+// In the list below, some traits are already displayed by the program.
 
-This file will be made again in whole JSON format.
+// This file will be made again in a whole JSON format.
 
-==========================================
-
-TACTICAL
+// ==========================================
+/*
+{["TACTICAL":
 
 == academical:
 Hardpoints => + "Hardpoints Expert" / - ""
@@ -90,4 +90,4 @@ Open Mindness =>
 Secret Agenda => 
 Social Closure (behavior when alone) => 
 Social Exposure (behavior when in a large group) => 
-
+*/
