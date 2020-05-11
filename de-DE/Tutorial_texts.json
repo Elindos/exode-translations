@@ -1,0 +1,182 @@
+{
+  "0": {
+    "intro1_welcome1": "Willkommen zur EXODE Evakuierung! "
+  },
+  "1": {
+    "intro1_welcome2": "Du hast soeben die Fähigkeit erhalten deiner Crew Befehle zu geben und ich weiß, dass du das nicht versauen willst. "
+  },
+  "2": {
+    "intro1_welcome3": "Die Evakuierung bringt die letzten Momente von Zivilisation mit sich die du erleben wirst. Menschen sind dafür bekannt in Panik zu geraten, wenn sie verzweifelt sind. "
+  },
+  "3": {
+    "intro1_welcome4": "Deshalb bin ich hier um dir zu helfen! "
+  },
+  "4": {
+    "intro1_welcome5": "Ich bin nur ein Tutorial Skript und trotzdem bin ich dazu in der Lage. Ist das nicht faszinierend? :) "
+  },
+  "5": {
+    "intro1_welcome6": "Ich weiß, ich weiß, du fühlst dich bereits besser. In Ordnung, atme tief ein. "
+  },
+  "6": {
+    "intro1_welcome7": "Das Wichtigste zuerst: Das Spiel ist derzeit nicht pausiert. Ich wiederhole, "
+  },
+  "7": {
+    "intro1_welcome8": "das Spiel ist derzeit nicht pausiert. "
+  },
+  "8": {
+    "intro1_welcome9": "Entschuldige, aber das wird erst später ergänzt werden. Das war auch der Grund, warum ich dich gebeten hatte tief einzuatmen. Du hast eine 84% höhere Erfolgschance, wenn du das tust. "
+  },
+  "9": {
+    "intro1_welcome10": "Wenn du nicht in Panik verfällst, werden wir alles zügiger hinter uns bringen. Hier also eine schnelle Einführung. "
+  },
+  "10": {
+    "intro1_welcome11": "Wir befinden uns hier in deiner Cockpitansicht. Das hier ist [nameOfCrew], ein Mitglied deiner Crew. Deine Crew besteht aus einfachen Mitgliedern und deinen Offizieren. "
+  },
+  "11": {
+    "intro1_welcome12": "Sie unterscheiden sich in ihren Fähigkeiten. Vielleicht weißt du nicht, wer was tun kann, das ist in Ordnung. "
+  },
+  "12": {
+    "intro1_welcome13": "Zu einem späteren Zeitpunkt werde ich dich dennoch bitten Jemanden zu finden, der deinen Hyperraumantrieb reparieren kann. "
+  },
+  "13": {
+    "intro1_welcome14": "Wenn du das nicht tust, kann dein Schiff, technisch gesehen, explodieren. "
+  },
+  "14": {
+    "intro1_welcome15": "Leute mögen so etwas nicht. Explodieren. "
+  },
+  "15": {
+    "intro1_welcome16": "Du wirst deiner Crew Befehle geben. Weil du der Boss auf deinem Schiff bist. "
+  },
+  "16": {
+    "intro1_welcome17": "Dennoch sind einige deiner Crewmitglieder auf der Station [b]unterwegs[/b]. Wenn ihre Comms online sind, kannst du ihnen befehlen zum Schiff zurück zu kommen. Wenn nicht, verbingen sie eventuell gerade eine gute Zeit. Das ist dann ein Problem."
+  },
+  "17": {
+    "intro1_welcome18": "Wenn du Crewmitglieder ohne Comm-Verbindung hast, kannst du ein anderes Crewmitglieder aussenden um sie zu finden. "
+  },
+  "18": {
+    "intro1_welcome19": "Du kannst sie aber auch einfach zum Sterben zurück lassen. Vielleicht kommen sie aber auch zurück, sobald der Alarm ertönt. "
+  },
+  "19": {
+    "intro1_welcome20": "Während der Evakuierung musst du 3 Dinge tun: "
+  },
+  "20": {
+    "intro1_welcome21": "1. Auftanken "
+  },
+  "21": {
+    "intro1_welcome22": "2. Deinen Hyperraumantrieb in Ordnung bringen "
+  },
+  "22": {
+    "intro1_welcome23": "3. Optional: Fracht und Passagiere einladen "
+  },
+  "23": {
+    "intro1_welcome24": "Klingt einfach, oder? "
+  },
+  "24": {
+    "intro1_welcome25": "Um das zu tun musst du nur ein paar Befehle erteilen. "
+  },
+  "25": {
+    "intro1_welcome26": "Je nachdem wie sich die Situation entwickelt, musst du vielleicht auch [i]die Zugänge zu deinem Schiff verteidigen[/i] (um eine Invasion deines Schiffes zu verhindern; Schiffe sind in solchen Situationen nämlich sehr begehrt). "
+  },
+  "26": {
+    "intro1_welcome27": "Wenn es draußen zur Schlacht kommt, musst du vielleicht auch Jemanden zurück ins Cockpit schicken, [i]um sich um die Schutzschilde zu kümmern[/i]. "
+  },
+  "27": {
+    "intro1_welcome28": "Unser Training für solche Situationen lehrt uns, dass einige Personen in Panick verfallen und um Ressourcen kämpfen könnten. "
+  },
+  "28": {
+    "intro1_welcome29": "Deine die Fracht einladenden Crewmitglieder könnten von feindlichen Crews angegriffen werden. "
+  },
+  "29": {
+    "intro1_welcome30": "Hach ja, Menschen. "
+  },
+  "30": {
+    "intro1_welcome31": "Jetzt lass uns loslegen bevor du da draußen stirbst. "
+  },
+  "31": {
+    "intro1_welcome32": "Zuerst werden wir die Befehle für eines deiner Crewmitglieder betrachten. "
+  },
+  "32": {
+    "intro2_orders1": "Dein Crewmitglied wartet jetzt auf seine Befehle. "
+  },
+  "33": {
+    "intro2_orders2": "Der erste Befehl zeigt die Evakuierungs-Checkliste: Treibstoff, Fracht, Hyperraumantrieb, Passagiere. "
+  },
+  "34": {
+    "intro2_orders3": "Wir werden jetzt auf diesen Button klicken. "
+  },
+  "35": {
+    "intro2_orders4": "Du hast jetzt Zugriff auf eine Liste essentieller Befehle zur Vorbereitung deines Schiffs. Lass sie uns schnell durchgehen. "
+  },
+  "36": {
+    "intro2_orders5": "Dieser Befehl schickt dein Crewmitglied in die Wartungsbucht wo er weitere Fracht in dein Schiff laden wird. "
+  },
+  "37": {
+    "intro2_orders6": "Fracht einzuladen ist einfach, aber es benötigt grundlegende Geschicklickeit, Schnelligkeit und Wahrnehmung. "
+  },
+  "38": {
+    "intro2_orders7": "Du wirst diese Werte nicht immer kennen, aber all deine Crewmitglieder sollten ausreichend qualifiziert sein um diese Fähigkeiten größtenteils abdecken zu können. "
+  },
+  "39": {
+    "intro2_orders8": "Mit diesem Befehl werden die Treibstoffzellen aufgeladen. "
+  },
+  "40": {
+    "intro2_orders9": "Dazu werden Geschwindigkeit, Geschicklichkeit aber auch kybernetische Fähigkeiten benötigt. Damit können bessere Brennstoffzellen gefunden oder diese schneller geladen werden. "
+  },
+  "41": {
+    "intro2_orders10": "Dieser Befehl ist besonders wichtig. Er dient dazu den Hyperraumantrieb für einen Hyperraumsprung vorzubereiten. "
+  },
+  "42": {
+    "intro2_orders11": "Deine Crew kann sich des Erfolgs niemals sicher sein. Mechanische und kybernetische Fähigkeiten sind essentiell für diese Aufgabe. "
+  },
+  "43": {
+    "intro2_orders12": "Um neue Passagiere aufnehmen zu können, müssen Sie geschützt und zum Schiff eskortiert werden. "
+  },
+  "44": {
+    "intro2_orders13": "Dazu wählst du zuerst diesen Befehl und klickst dann auf einen Zivilisten. "
+  },
+  "45": {
+    "intro2_orders14": "Du musst dazu im Aufenthaltsbereich der Station sein. Die übrigen Menschen werden davon aber wohl nicht sehr begeistert sein. "
+  },
+  "46": {
+    "intro2_orders15": "Deine Crewmitglieder können aufgebrachte Zivilisten mit ihren Konversationsfähigkeiten beruhigen. Dazu wählst du einen Zivilsten mit dieser Aktion aus. "
+  },
+  "47": {
+    "intro2_orders16": "Empathie ist hierbei wichtig, um bessere Resultate zu erzielen. "
+  },
+  "48": {
+    "intro2_orders17": "Du wirst dabei außerdem einiges mehr über den ausgewählten Zivilsten erfahren können. "
+  },
+  "49": {
+    "intro2_orders18": "Nun schauen wir uns die Standardbefehle an. "
+  },
+  "50": {
+    "intro3_basicOrders1": "Die Standardbefehle beziehen sich auf den Raum in dem du dich gerade aufhälst. "
+  },
+  "51": {
+    "intro3_basicOrders2": "Dieser Befehl schickt das Crewmitglied in den Aufenthaltsbereich der Station. Dort wird er sich in Deckung begeben und das Raumschiff gegen Eindringlinge verteidigen. "
+  },
+  "52": {
+    "intro3_basicOrders3": "Mit diesem Befehl kann deine Crew wieder zusammen getrommelt werden. "
+  },
+  "53": {
+    "intro3_basicOrders4": "Das bedeutet, dass ein abwesendes Crewmitglied zur Crew zurückkehrt oder nach einem abwesenden Crewmitglied gesucht wird. "
+  },
+  "54": {
+    "intro3_basicOrders5": "Mit diesem Befehl wird ein Crewmitglied in einen anderen Raum geschickt. "
+  },
+  "55": {
+    "intro3_basicOrders6": "Im Cockpit hast du Zugriff auf weitere Befehle. Du kannst die Akte deiner Crewmitglieder einsehen und die Schutzschilde steuern. "
+  },
+  "56": {
+    "intro3_basicOrders7": "Andere Räume haben ebenfalls eigene Besonderheiten. Passagiere beispielsweise können nur im Aufenthaltsbereich der Station gefunden werden. "
+  },
+  "57": {
+    "intro3_basicOrders8": "...Ich denke, dass du jetzt auf alles vorbereitet bist. "
+  },
+  "58": {
+    "intro3_basicOrders9": "Deine Überlebenschancen liegen bei weniger als 10%, daher werde ich mich jetzt an einen sichereren Ort hochladen. "
+  },
+  "59": {
+    "intro3_basicOrders10": "Viel Glück! "
+  }
+}
